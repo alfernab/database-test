@@ -4,7 +4,6 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "iniciando o server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "alfernab",
