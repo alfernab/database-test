@@ -65,6 +65,53 @@
                     "preco": "299,99",
                     "contato": "011 98857-9592"
                 }
+            ],
+            "nike": [
+                {
+                    "id": "1",
+                    "descricao": "CAMISA BRASIL II 2020/21 FEMININA",
+                    "time": "BRASIL",
+                    "tamanho": "G",
+                    "preco": "249,99",
+                    "telefone": "011 98857-9592",
+                    "email": "romarior@yahoo.com"
+                },
+                {
+                    "id": "2",
+                    "descricao": "CHUTEIRA VAPOR 14 ELITE CAMPO",
+                    "time": "NÃO SE APLICA",
+                    "tamanho": "41",
+                    "preco": "1899,99",
+                    "telefone": "011 98857-9592",
+                    "email": "romarior@yahoo.com"
+                },
+                {
+                    "id": "3",
+                    "descricao": "LUVAS JR. GOALKEEPER MATCH INFANTIL",
+                    "time": "NÃO SE APLICA",
+                    "tamanho": "ÚNICO",
+                    "preco": "79,99",
+                    "telefone": "011 98857-9592",
+                    "email": "romarior@yahoo.com"
+                },
+                {
+                    "id": "4",
+                    "descricao": "MEIÃO 2020/21 JOGADOR UNISSEX",
+                    "time": "CORINTHIANS",
+                    "tamanho": "41",
+                    "preco": "109,99",
+                    "telefone": "011 98857-9592",
+                    "email": "romarior@yahoo.com"
+                },
+                {
+                    "id": "5",
+                    "descricao": "Bola Strike",
+                    "time": "Barcelona",
+                    "tamanho": "5",
+                    "preco": "299,99",
+                    "telefone": "011 98857-9592",
+                    "email": "romarior@yahoo.com"
+                }
             ]
         }
     ]
