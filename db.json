@@ -13,6 +13,13 @@
             "email": "dev@yahoo.com",
             "user": "devmaster",
             "senha": "dev123"
+        },
+        {
+            "id": "3",
+            "nome": "Bebeto ",
+            "email": "bebeto@yahoo.com",
+            "user": "bebetotetra",
+            "senha": "bebeto123"
         }
     ],
     "marca": [
