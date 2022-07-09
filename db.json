@@ -24,53 +24,23 @@
     ],
     "data": [
         {
-            "id": "1",
-            "descricao": "CAMISA 2",
-            "time": "REAL MADRID",
+            "id": 1,
+            "descricao": "Camisa Barcelona",
+            "marca": "Nike",
             "tamanho": "G",
-            "preco": "299,99",
-            "contato": "011 98857-9592"
+            "email": "teste@teste.com",
+            "telefone": "3140028922",
+            "preco": "R$ 250"
         },
         {
-            "id": "2",
-            "descricao": "CHUTEIRA X SPEEDFLOW.1 CAMPO",
-            "time": "NÃO SE APLICA",
-            "tamanho": "41",
-            "preco": "899,99",
-            "contato": "011 98857-9592"
-        },
-        {
-            "id": "3",
-            "descricao": "LUVAS GOLEIRO PREDATOR MATCH FINGERSAVE",
-            "time": "NÃO SE APLICA",
-            "tamanho": "ÚNICO",
-            "preco": "179,99",
-            "contato": "011 98857-9592"
-        },
-        {
-            "id": "4",
-            "descricao": "MEIÃO 1 CR FLAMENGO 21/22",
-            "time": "FLAMENGO",
-            "tamanho": "M",
-            "preco": "49,99",
-            "contato": "011 98857-9592"
-        },
-        {
-            "id": "5",
-            "descricao": "BOLA COPA DO MUNDO AL RIHLA LEAGUE SOCIETY+",
-            "time": "NÃO SE APLICA",
-            "tamanho": "NÃO SE APLICA",
-            "preco": "299,99",
-            "contato": "011 98857-9592"
-        },
-        {
-            "id": "6",
-            "descricao": "CAMISA BRASIL II 2020/21 FEMININA",
-            "time": "BRASIL",
+            "id": 2,
+            "descricao": "Camisa Cruzeiro",
+            "time": "Cruzeiro",
+            "marca": "Adidas",
             "tamanho": "G",
-            "preco": "249,99",
-            "telefone": "011 98857-9592",
-            "email": "romarior@yahoo.com"
+            "email": "teste@teste.com",
+            "telefone": "3140028922",
+            "preco": "R$ 250"
         }
     ],
     "nike": [
